@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Empresa
+comment1.params=funcionario
+comment1.target=void\ addFuncionario(Funcionario)
+comment2.params=
+comment2.target=java.util.List\ funcionario()
+comment3.params=
+comment3.target=double\ totalSalario()
+numComments=4
